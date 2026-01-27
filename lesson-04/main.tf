@@ -22,7 +22,7 @@ resource "aws_instance" "lesson_04" {
   ]
 
   tags = {
-    Name      = "Lesson-04-VM-SG"    
+    Name = "Lesson-04-VM-SG"
   }
 }
 
