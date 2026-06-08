@@ -14,5 +14,5 @@ module "webserver-dave" {
   # Remember, select an AMI that exists in your AWS region.
   # If in doubt, use the AMI above and the us-east-2 region.
   instance_type  = "t2.micro"
-  webserver_name = "Dave's"
+  webserver_name = "Neehar's"
 }

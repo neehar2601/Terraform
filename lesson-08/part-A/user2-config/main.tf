@@ -15,6 +15,6 @@ module "webserver-user2" {
   # If in doubt, use the AMI above (which is Amazon Linux) 
   # and the us-west-2 region for this user.
   instance_type  = "t2.micro"
-  webserver_name = "User 2's"
+  webserver_name = "Neehar-2"
 }
 
